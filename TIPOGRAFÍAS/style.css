@@ -1,0 +1,42 @@
+h1.CourierNew {
+    font-family: 'Courier New';
+}
+h1.Courier {
+    font-family: Courier;
+}
+h1.monospace {
+    font-family: monospace;
+}
+h1.FranklinGothicMedium {
+    font-family: 'Franklin Gothic Medium';
+}
+h1.ArialNarrow{
+    font-family: 'Arial Narrow';
+}
+h1.Arial {
+    font-family: Arial;
+}
+h1.sans-serif {
+    font-family: sans-serif;
+}
+h1.GillSans {
+    font-family: 'Gill Sans';
+}
+h1.GillSansMT {
+    font-family: 'Gill Sans MT';
+}
+h1.Calibri {
+    font-family: Calibri;
+}
+h1.TrebuchetMS {
+    font-family: 'Trebuchet MS';
+}
+h1.LucidaSans     {
+    font-family: 'Lucida Sans';    
+}
+h1.LucidaSansRegular {
+    font-family: 'Lucida Sans Regular';
+}
+h1.LucidaGrande {
+    font-family: 'Lucida Grande';
+}
